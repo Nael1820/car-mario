@@ -1,0 +1,182 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bas0",
+			"indices": [],
+			"adaptativeloop": false
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				29
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "haut0",
+			"indices": [],
+			"adaptativeloop": false
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-22
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "droite0",
+			"indices": [],
+			"adaptativeloop": false
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gauche0",
+			"indices": [],
+			"adaptativeloop": false
+		},
+		{
+			"offsets": [
+				44,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"adaptativeloop": false,
+			"indices": [],
+			"name": "bas miss"
+		},
+		{
+			"offsets": [
+				3,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"adaptativeloop": false,
+			"indices": [],
+			"name": "haut miss"
+		},
+		{
+			"offsets": [
+				-30,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"adaptativeloop": false,
+			"indices": [],
+			"name": "droite miss"
+		},
+		{
+			"offsets": [
+				69,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"adaptativeloop": false,
+			"indices": [],
+			"name": "gauche miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "dies",
+			"indices": [],
+			"adaptativeloop": false
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"adaptativeloop": false,
+			"indices": [
+				7,
+				7
+			],
+			"name": "dies"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				14
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "HEY",
+			"indices": [],
+			"adaptativeloop": false
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				13
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "HEY",
+			"indices": [],
+			"adaptativeloop": false
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_chat",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cat-bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		96,
+		197,
+		237
+	],
+	"camera_position": [
+		150,
+		-300
+	],
+	"hasWinIcon": false,
+	"sing_duration": 6.1,
+	"scale": 1
+}

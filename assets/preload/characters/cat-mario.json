@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"adaptativeloop": false,
+			"indices": [],
+			"name": "bas0"
+		},
+		{
+			"offsets": [
+				5,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"adaptativeloop": false,
+			"indices": [],
+			"name": "haut0"
+		},
+		{
+			"offsets": [
+				-31,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"adaptativeloop": false,
+			"indices": [],
+			"name": "droite0"
+		},
+		{
+			"offsets": [
+				38,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"adaptativeloop": false,
+			"indices": [],
+			"name": "gauche0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				35
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "HEY",
+			"indices": [],
+			"adaptativeloop": false
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mario_chat",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cat-mario",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		214,
+		23
+	],
+	"camera_position": [
+		50,
+		-300
+	],
+	"hasWinIcon": false,
+	"sing_duration": 6.1,
+	"scale": 1
+}
