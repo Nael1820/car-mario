@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ridaux.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ferme0000" x="0" y="0" width="2007" height="392" frameX="-91" frameY="-30" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0001" x="0" y="0" width="2007" height="392" frameX="-91" frameY="-30" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0002" x="0" y="0" width="2007" height="392" frameX="-91" frameY="-30" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0003" x="0" y="0" width="2007" height="392" frameX="-91" frameY="-30" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0004" x="2007" y="0" width="2007" height="582" frameX="-91" frameY="0" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0005" x="2007" y="0" width="2007" height="582" frameX="-91" frameY="0" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0006" x="4014" y="0" width="2013" height="934" frameX="-85" frameY="-60" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0007" x="4014" y="0" width="2013" height="934" frameX="-85" frameY="-60" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0008" x="6027" y="0" width="2088" height="1222" frameX="-51" frameY="-188" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0009" x="6027" y="0" width="2088" height="1222" frameX="-51" frameY="-188" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0010" x="0" y="1222" width="2052" height="1370" frameX="-81" frameY="-160" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0011" x="0" y="1222" width="2052" height="1370" frameX="-81" frameY="-160" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0012" x="2052" y="1222" width="2219" height="1422" frameX="0" frameY="-126" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0013" x="2052" y="1222" width="2219" height="1422" frameX="0" frameY="-126" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0014" x="4271" y="1222" width="2180" height="1405" frameX="-12" frameY="-126" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0015" x="4271" y="1222" width="2180" height="1405" frameX="-12" frameY="-126" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0016" x="0" y="2644" width="2080" height="1392" frameX="-63" frameY="-126" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0017" x="0" y="2644" width="2080" height="1392" frameX="-63" frameY="-126" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0018" x="2080" y="2644" width="2007" height="1364" frameX="-91" frameY="-126" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0019" x="2080" y="2644" width="2007" height="1364" frameX="-91" frameY="-126" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0020" x="2080" y="2644" width="2007" height="1364" frameX="-91" frameY="-126" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0021" x="2080" y="2644" width="2007" height="1364" frameX="-91" frameY="-126" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0022" x="2080" y="2644" width="2007" height="1364" frameX="-91" frameY="-126" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0023" x="2080" y="2644" width="2007" height="1364" frameX="-91" frameY="-126" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ferme0024" x="2080" y="2644" width="2007" height="1364" frameX="-91" frameY="-126" frameWidth="2219" frameHeight="1548"/>
+	<SubTexture name="ouvre0000" x="4087" y="2644" width="1954" height="1168" frameX="-37" frameY="-53" frameWidth="2041" frameHeight="1321"/>
+	<SubTexture name="ouvre0001" x="4087" y="2644" width="1954" height="1168" frameX="-37" frameY="-53" frameWidth="2041" frameHeight="1321"/>
+	<SubTexture name="ouvre0002" x="6041" y="2644" width="2026" height="1321" frameX="-15" frameY="0" frameWidth="2041" frameHeight="1321"/>
+	<SubTexture name="ouvre0003" x="6041" y="2644" width="2026" height="1321" frameX="-15" frameY="0" frameWidth="2041" frameHeight="1321"/>
+	<SubTexture name="ouvre0004" x="0" y="4036" width="2008" height="1207" frameX="-16" frameY="-56" frameWidth="2041" frameHeight="1321"/>
+	<SubTexture name="ouvre0005" x="0" y="4036" width="2008" height="1207" frameX="-16" frameY="-56" frameWidth="2041" frameHeight="1321"/>
+	<SubTexture name="ouvre0006" x="2008" y="4036" width="1972" height="1239" frameX="-31" frameY="-44" frameWidth="2041" frameHeight="1321"/>
+	<SubTexture name="ouvre0007" x="2008" y="4036" width="1972" height="1239" frameX="-31" frameY="-44" frameWidth="2041" frameHeight="1321"/>
+	<SubTexture name="ouvre0008" x="3980" y="4036" width="2010" height="1011" frameX="0" frameY="-270" frameWidth="2041" frameHeight="1321"/>
+	<SubTexture name="ouvre0009" x="3980" y="4036" width="2010" height="1011" frameX="0" frameY="-270" frameWidth="2041" frameHeight="1321"/>
+	<SubTexture name="ouvre0010" x="5990" y="4036" width="1996" height="526" frameX="-12" frameY="-706" frameWidth="2041" frameHeight="1321"/>
+	<SubTexture name="ouvre0011" x="5990" y="4036" width="1996" height="526" frameX="-12" frameY="-706" frameWidth="2041" frameHeight="1321"/>
+</TextureAtlas>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HotelMarioNon.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Non0000" x="1" y="1" width="1280" height="720"/>
+	<SubTexture name="Non0001" x="1" y="1" width="1280" height="720"/>
+	<SubTexture name="Non0002" x="1282" y="1" width="1280" height="720"/>
+	<SubTexture name="Non0003" x="2563" y="1" width="1280" height="720"/>
+	<SubTexture name="Non0004" x="1" y="722" width="1280" height="720"/>
+	<SubTexture name="Non0005" x="1282" y="722" width="1280" height="720"/>
+	<SubTexture name="Non0006" x="2563" y="722" width="1280" height="720"/>
+	<SubTexture name="Non0007" x="1" y="1443" width="1280" height="720"/>
+	<SubTexture name="Non0008" x="1" y="1443" width="1280" height="720"/>
+	<SubTexture name="Non0009" x="1282" y="1443" width="1280" height="720"/>
+	<SubTexture name="Non0010" x="1282" y="1443" width="1280" height="720"/>
+	<SubTexture name="Non0011" x="1282" y="1443" width="1280" height="720"/>
+	<SubTexture name="Non0012" x="2563" y="1443" width="1280" height="720"/>
+	<SubTexture name="Non0013" x="2563" y="1443" width="1280" height="720"/>
+	<SubTexture name="Non0014" x="2563" y="1443" width="1280" height="720"/>
+	<SubTexture name="Non0015" x="2563" y="1443" width="1280" height="720"/>
+	<SubTexture name="Non0016" x="2563" y="1443" width="1280" height="720"/>
+	<SubTexture name="Non0017" x="2563" y="1443" width="1280" height="720"/>
+	<SubTexture name="Non0018" x="2563" y="1443" width="1280" height="720"/>
+	<SubTexture name="Non0019" x="2563" y="1443" width="1280" height="720"/>
+	<SubTexture name="Non0020" x="2563" y="1443" width="1280" height="720"/>
+	<SubTexture name="Non0021" x="2563" y="1443" width="1280" height="720"/>
+</TextureAtlas>
